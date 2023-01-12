@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/web-byreact/static/css/main.1f2490f2.css",
+    "main.js": "/web-byreact/static/js/main.2e81cbe7.js",
+    "static/js/787.eb156bef.chunk.js": "/web-byreact/static/js/787.eb156bef.chunk.js",
+    "static/media/avengers.jpg": "/web-byreact/static/media/avengers.8f7fcc6314a725b08c73.jpg",
+    "static/media/avengersendame.jpg": "/web-byreact/static/media/avengersendame.8f7fcc6314a725b08c73.jpg",
+    "static/media/doctorstrange.jpg": "/web-byreact/static/media/doctorstrange.f8ac8a03789f9b678260.jpg",
+    "static/media/drmultiverse.jpg": "/web-byreact/static/media/drmultiverse.f8ac8a03789f9b678260.jpg",
+    "static/media/horor1.jpg": "/web-byreact/static/media/horor1.f45300dc6a199ad61353.jpg",
+    "static/media/blackpanther.jpg": "/web-byreact/static/media/blackpanther.6076dc7a4fe7d902a0f2.jpg",
+    "static/media/sr.jpg": "/web-byreact/static/media/sr.f304eb34108e74512469.jpg",
+    "static/media/sriasih.jpg": "/web-byreact/static/media/sriasih.f304eb34108e74512469.jpg",
+    "static/media/horor6.jpg": "/web-byreact/static/media/horor6.d0d7e4524907e62c0e03.jpg",
+    "static/media/spiderman.jpg": "/web-byreact/static/media/spiderman.481c0432b94c8429ba14.jpg",
+    "static/media/horor5.jpg": "/web-byreact/static/media/horor5.62035b8ffd94d38c39ed.jpg",
+    "static/media/kkndidesapenari.jpg": "/web-byreact/static/media/kkndidesapenari.62035b8ffd94d38c39ed.jpg",
+    "static/media/horor2.jpg": "/web-byreact/static/media/horor2.e29eaa0e417c4608930f.jpg",
+    "static/media/pengabdisetan.jpg": "/web-byreact/static/media/pengabdisetan.e29eaa0e417c4608930f.jpg",
+    "static/media/bioskop.jpg": "/web-byreact/static/media/bioskop.e8bb79afc52ec0472219.jpg",
+    "static/media/bground.jpg": "/web-byreact/static/media/bground.16867c14b740ef73926e.jpg",
+    "static/media/istockphoto-1271522601-612x612.jpg": "/web-byreact/static/media/istockphoto-1271522601-612x612.ed64b3c2b833ef007a7f.jpg",
+    "index.html": "/web-byreact/index.html",
+    "main.1f2490f2.css.map": "/web-byreact/static/css/main.1f2490f2.css.map",
+    "main.2e81cbe7.js.map": "/web-byreact/static/js/main.2e81cbe7.js.map",
+    "787.eb156bef.chunk.js.map": "/web-byreact/static/js/787.eb156bef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f2490f2.css",
+    "static/js/main.2e81cbe7.js"
+  ]
+}
